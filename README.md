@@ -1,4 +1,4 @@
-This project is a demo/prototype of a reorderable list that automatically saves its state after each reorder.
+This project is a demo/prototype of a reorderable list that automatically persists its state to remote database after each reorder.
 
 ## Getting Started
 
